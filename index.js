@@ -69,7 +69,3 @@ bot.on('message', async (event) => {
   }
 
 })
-bot.listen('/', process.env.PORT || 3000, () => {
-  console.log('機器人啟動。')
-
-})
