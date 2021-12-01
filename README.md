@@ -93,6 +93,17 @@ Line-Bot開発初心者なんでが、どうぞよろしくお願い致します
 ### 誠にありがとうございします。
 
 ---
-
+### FF14 Crafter job code
+    English           Japanese           code
+    
+    Carpenter         木工師              crp
+    Blacksmith        鍛造師              bsm
+    Armorer           甲冑師              arm
+    Goldsmith         彫金師              gsm
+    Leatherworker     革細工師            lwr
+    Weaver            裁縫師              wvr
+    Alchemist         錬金術師            alc
+    Culinarian        調理師              cul
+---
 (C) SQUARE ENIX CO., LTD. All Rights Reserved.
 (C) FF14Restanet - FF14レスタネット All Rights Reserved.
