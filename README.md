@@ -4,8 +4,12 @@
 
  This Line-bot called "FF14 クラレシ(kurareshi)",help player to search crafting recipe.
 
+
  ### This is 1.0 ver. , means will be updata.
  
+ Scan this QR code to add the line-bot.
+ 
+ ![ff14kurareshiQR](ff14kurareshiQR.png)
 ---
 
 
@@ -47,6 +51,10 @@ If you want to see all the Japanese "recipe",click here,will be link to "FF14 Re
 
 ### Thanks for everyone.
 
+こちらのQRコードを読み取って、このラインボット追加されます。
+
+![ff14kurareshiQR](ff14kurareshiQR.png)
+
 ---
 
 # 自己紹介：
@@ -55,6 +63,7 @@ Line-Bot開発初心者なんでが、どうぞよろしくお願い致します
 このボットの名は「FF14 クラレシ」、クラフターのレシピが検索られます。
 ###  1.0 ver. なので、不完全なところがあって、よければ、いいアイデアを教えていただいてうれしいです。
 ### アップデート可能です。
+
 
 ---
 
