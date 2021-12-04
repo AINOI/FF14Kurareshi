@@ -51,10 +51,6 @@ If you want to see all the Japanese "recipe",click here,will be link to "FF14 Re
 
 ### Thanks for everyone.
 
-こちらのQRコードを読み取って、このラインボット追加されます。
-
-![ff14kurareshiQR](ff14kurareshiQR.png)
-
 ---
 
 # 自己紹介：
@@ -64,6 +60,9 @@ Line-Bot開発初心者なんでが、どうぞよろしくお願い致します
 ###  1.0 ver. なので、不完全なところがあって、よければ、いいアイデアを教えていただいてうれしいです。
 ### アップデート可能です。
 
+こちらのQRコードを読み取って、このラインボット追加されます。
+
+![ff14kurareshiQR](ff14kurareshiQR.png)
 
 ---
 
